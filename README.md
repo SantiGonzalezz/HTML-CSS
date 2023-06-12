@@ -17,3 +17,8 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
 3. Textos en HTML
    - Encabezados
    - Etiquetas de Texto
+4. Enlaces, imágenes y elementos en bloque/línea
+   - Id's y Clases
+   - Enlaces
+   - Imágenes
+   - Elementos en líneay en bloque
