@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Formularios</title>
+	</head>
+	<body>
+		<!-- 
+            Formularios
+
+            action: url donde se procesa la informacion
+            method: get/post
+         -->
+		<form>
+			<!-- 
+                Inputs
+             -->
+
+			<!-- text
+            name
+            id
+            value: valor por defecto
+            label: descripcion
+			maxlength
+			required
+			placeholder
+            -->
+
+			<!-- Relacionar label e input permite que al hacer click en label se active el input -->
+			<label for="ingresoNombre">Ingresa tu Nombre</label>
+			<input
+				type="text"
+				name=""
+				id="ingresoNombre"
+				value=""
+				maxlength="8"
+				required
+				placeholder="Nombre"
+			/>
+			<!-- email -->
+			<input type="email" name="" id="" placeholder="Email" />
+			<br />
+
+			<!-- color -->
+			<input type="color" name="" id="" />
+			<br />
+
+			<!-- date -->
+			<input type="date" name="" id="" />
+			<br />
+
+			<!-- range -->
+			<input type="range" name="" id="" />
+			<br />
+
+			<!-- number -->
+			<input type="number" name="" id="" min="1" /><br />
+			<br />
+
+			<!-- check -->
+			<input type="checkbox" name="" id="check" />
+			<label for="check">Terminos</label>
+			<br />
+
+			<!-- password -->
+			<input type="password" name="" id="" />
+			<br />
+
+			<!-- radio -->
+			<input type="radio" name="" id="radio1" />
+			<label for="radio1">Email o Telefono</label>
+			<br />
+
+			<!-- select -->
+			<select name="" id="">
+				<option value="">Marketing</option>
+				<option value="">Ciencias</option>
+				<option value="">Mates</option>
+			</select>
+			<br />
+
+			<!-- textarea -->
+			<textarea name="" id="" cols="30" rows="10"></textarea>
+			<br />
+
+			<!-- submit -->
+			<div>
+				<input type="submit" value="Enviar" />
+			</div>
+
+			<fieldset>
+				<legend>Ingresa tus datos</legend>
+				<input type="text" name="" id="" placeholder="Nombre" />
+				<input type="email" name="" id="" placeholder="Email" />
+				<input type="password" name="" id="" placeholder="Contraseña" />
+			</fieldset>
+		</form>
+	</body>
+</html>

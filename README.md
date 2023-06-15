@@ -37,6 +37,6 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
    - Elementos en línea y en bloque
 
 5. Secciones, Listas y Formularios
-   - Secciones
    - Listas
    - Formularios
+   - Secciones
