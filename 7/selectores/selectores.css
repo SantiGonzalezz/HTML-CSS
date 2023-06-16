@@ -1,0 +1,65 @@
+/*  
+***********Selectores Basicos************ 
+*/
+
+/* -Atributo  */
+
+/* - Seleccionar sólo los elementos A con atributo class {a[class]} */
+
+/* a[class] {
+    color: white;
+    background-color: blueviolet;
+} */
+
+
+/* - Seleccionar sólo con el enlace a Facebook {a[href="https://facebook.com"]} */
+
+/* a[href="https://facebook.com"] {
+    color: white;
+    background-color: blueviolet;    
+} */
+
+
+/* - Seleccionar todos los que terminen en .com  {[href$=".com"]} */
+
+/* [href$=".com"] {
+    color: white;
+    background-color: blueviolet;    
+} */
+
+/* - Seleccionar todos los iconos que contengan 'fa-'  {[class*="fa-"]} */
+
+
+/* i[class*="fa-"] {
+    color: white;
+    background-color: blueviolet;
+} */
+
+
+/* - Seleccionar sólo los que empiezan con 'fab fa-'  [class^="fab fa"] */
+
+/* i[class^="fab fa-"] {
+    color: white;
+    background-color: blueviolet;
+} */
+
+
+/*
+***********Combinadores************ 
+*/
+
+/* + Hermano adyacente : 'Cambia el fondo al elemento 'Acerca de' SÓLO A ESE' */
+/* elementoHermanoSeleccionado + elementoAfectado { } */
+
+/* .active + li {
+    background-color: blueviolet;
+    color: white;
+} */
+
+
+/* ~ Hermanos Generales : 'Cambia el fondo y color a "Acerca de Y Contacto"' */
+
+/* .active ~ li {
+    background-color: blueviolet;
+    color: white;
+} */
