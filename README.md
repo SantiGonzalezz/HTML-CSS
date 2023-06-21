@@ -24,19 +24,6 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
 1.  Encabezados
 1.  Etiquetas de Texto
 
-    - b
-    - strong
-    - i
-    - em
-    - s
-    - small
-    - br
-    - span
-    - cite
-    - abbr
-    - sup
-    - sub
-
 ### 4. Enlaces, imágenes y elementos en bloque/línea
 
 1.  Id's y Clases
