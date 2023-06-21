@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial;
+    background-color: #300449;
+}
+
+.header {
+    width: 100%;
+    height: 650px;
+    background-image: linear-gradient(to top, #fbc2eb 50%, #a6c1ee 100%);
+    text-align: center;
+    overflow: hidden;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.img {
+    width: 300px;
+    margin-top: 50px;
+}
+
+.titulo {
+    font-size: 80px;
+    padding: 20px;
+    color: #6a197c;
+}
+
+.enlace {
+    display: inline-block;
+    border: 1px solid #6a197c;
+    text-decoration: none;
+    color: #fff;
+    width: 160px;
+    background-color: #6a197c;
+    border-radius: 10px;
+    padding: 10px 0;
+}
+
+.scroll {
+    height: 1200px;
+
+}
+
+.wave {
+    position: absolute;
+    width: 100%;
+    height: 150px;
+    overflow: "hidden";
+    bottom: 0;
+    /* left: 0; */
+}
