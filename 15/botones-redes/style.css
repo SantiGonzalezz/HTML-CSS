@@ -1,0 +1,64 @@
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --colorFacebook: #3b5999;
+    --colorTwitter: #55acee;
+    --colorYoutube: #cd201f;
+    --colorLinkedin: #0077b5;
+    --size: 40px;
+    --box-shadow: 0 0 6px 2px;
+    --texto: center;
+}
+
+body {
+    font-size: var(--size);
+}
+
+nav {
+    width: 900px;
+    margin: 20px auto;
+    text-align: var(--texto);
+}
+
+a {
+    text-decoration: none;
+}
+
+section {
+    --size: 20px;
+    font-size: var(--size);
+}
+
+[class^="fab fa"] {
+    font-size: 50px;
+    color: #fff ;
+    box-shadow: var(--box-shadow) rgba(0, 0, 0, 0.5);
+    width: 140px;
+    /* height: 70px; */
+    text-align: var(--texto);
+    padding: 15px 0;
+    border-radius: 10px;
+}
+
+[class^="fab fa"]:nth-child(1) {
+    background-color: var(--colorFacebook);
+    /* color: var(--colorFacebook); */
+}
+[class^="fab fa"]:nth-child(2) {
+    background-color: var(--colorTwitter);
+    /* color: var(--colorTwitter); */
+    opacity: 0.5;
+    /* visibility: hidden; */
+}
+[class^="fab fa"]:nth-child(3) {
+    background-color: var(--colorYoutube);
+    /* color: var(--colorYoutube); */
+}
+[class^="fab fa"]:nth-child(4) {
+    background-color: var(--colorLinkedin);
+    /* color: var(--colorLinkedin); */
+}

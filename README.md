@@ -127,6 +127,16 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
 ### 15. Pseudoclases, Pseudoelementos y Variables en CSS
 
 1. Pseudoclases
+   - [Pseudo clases Mozilla](https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-classes)
 1. Pseudoelementos
+   - [Pseudo elementos Mozilla](https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-elements)
 1. Introducción a variables en CSS
-1. **Práctica**
+   - [Variables Mozilla](https://developer.mozilla.org/es/docs/Web/CSS/Using_CSS_custom_properties)
+1. **Práctica** - Botones Redes Sociales
+   - [FontAwesome](https://fontawesome.com/?from=io)
+
+### 16. Responsive Design
+
+1. Aprendiendo Diseño Adaptable
+1. **Práctica** - Smooth Scroll
+1. **Práctica** - Formulario Adaptable

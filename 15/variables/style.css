@@ -1,0 +1,21 @@
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --variable1: steelblue;
+    --noUnderline: none;
+    --size: 90px;
+    --position: to top left;
+    --color: #75bd66;
+    --color1: hotpink;
+}
+
+a {
+    text-decoration: var(--noUnderline);
+    font-size: var(--size);
+    color: var(--color);
+    background-image: linear-gradient(var(--position), var(--color1), var(--color));
+}
