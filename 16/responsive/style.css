@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div.numerouno {
+    margin: auto;
+    background-color: steelblue;
+    width: 10%;
+    height: 400px;
+}
+
+@media screen and (max-width:900px) {
+    div.numerouno {
+        background-color: tomato;
+        width: 50%;
+    }
+}
+
+@media screen and (max-width:400px) {
+    div.numerouno {
+        background-color: blue;
+        width: 100%;
+    }
+}

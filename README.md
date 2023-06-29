@@ -137,6 +137,10 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
 
 ### 16. Responsive Design
 
-1. Aprendiendo Diseño Adaptable
+1. Media Queries
+   - [Media Queries Mozilla](https://developer.mozilla.org/es/docs/Web/CSS/CSS_media_queries/Using_media_queries)
+   - [Media Queries Standard](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 1. **Práctica** - Smooth Scroll
+   - [Can I Use](https://caniuse.com/)
+   - [Autoprefixer](https://autoprefixer.github.io/)
 1. **Práctica** - Formulario Adaptable
