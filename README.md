@@ -144,3 +144,18 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
    - [Can I Use](https://caniuse.com/)
    - [Autoprefixer](https://autoprefixer.github.io/)
 1. **Práctica** - Formulario Adaptable
+
+### 17. Flexbox
+
+1. Entendiendo Flexbox
+   - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+1. Alineamiento en el eje principal
+1. Alineamiento en el eje secundario
+1. Propiedades Flex Items
+
+### 18. Páginas Web con Flexbox
+
+1. Recursos a Utilizar
+1. Creando el Header de la Pagina Web
+1. Terminando el Main y el Portafolio
+1. Adaptando a Dispositivos Móviles
