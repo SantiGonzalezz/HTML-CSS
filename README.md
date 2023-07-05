@@ -215,3 +215,10 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
 1. **Práctica** - Creando estilos del portafolio
 1. **Práctica** - Creando estilos de tablas de precio y Footer
 1. **Práctica** - Adaptando a Dispositivos Móviles
+
+### 20. Landing Page
+
+1. **Práctica** - Landing Page
+
+   - [Blobmaker](https://www.blobmaker.app/)
+   - [Figma](https://www.figma.com/)
