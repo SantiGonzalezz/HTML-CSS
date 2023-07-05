@@ -193,9 +193,25 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
 1. Recursos a Utilizar
 
    - [Google Fonts](https://fonts.google.com/)
-   - [Google Fonts](https://fonts.google.com/)
+   - [Unsplash](https://unsplash.com/es)
    - [FontAwesome](https://fontawesome.com/?from=io)
 
-1. Creando el Header de la Pagina Web
-1. Terminando el Main y el Portafolio
-1. Adaptando a Dispositivos Móviles
+1. **Práctica** - Creando el Header de la Pagina Web
+1. **Práctica** - Terminando el Main y el Portafolio
+1. **Práctica** - Adaptando a Dispositivos Móviles
+
+### 19. Página Web para Negocios
+
+1. Recursos a Utilizar
+
+   - [Google Fonts](https://fonts.google.com/)
+   - [Web Gradients](https://webgradients.com/)
+   - [Unsplash](https://unsplash.com/es)
+   - [Waves Generator](https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections)
+   - [Undraw](https://undraw.co/illustrations)
+
+1. **Práctica** - Creando el HTML
+1. **Práctica** - Creando estilos del Header
+1. **Práctica** - Creando estilos del portafolio
+1. **Práctica** - Creando estilos de tablas de precio y Footer
+1. **Práctica** - Adaptando a Dispositivos Móviles
