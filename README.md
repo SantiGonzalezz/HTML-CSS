@@ -31,11 +31,11 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
 1.  Imágenes
 
     - [Undraw](https://undraw.co/illustrations)
-
     - [Pexels](https://www.pexels.com/es-es/)
     - [Unsplash](https://unsplash.com/es)
 
 1.  Elementos en línea y en bloque
+
     - [En Linea](https://developer.mozilla.org/es/docs/orphaned/Web/HTML/Inline_elements)
     - [Bloque](https://developer.mozilla.org/es/docs/Glossary/Block-level_content)
 
@@ -51,6 +51,7 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
 1. Tablas
 1. Audio y Video
 1. Metadatos
+
    - [Favicon](https://favicon.io/favicon-converter/)
 
 ### 7. Primeros pasos CSS3
@@ -58,9 +59,11 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
 1. Introducción CSS
 1. Descendencia
 1. Selectores 1
+
    - [Documentacion Mozilla](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Selectors)
    - [Nombre Colores HTML](https://htmlcolorcodes.com/es/nombres-de-los-colores/)
    - [Emojis](https://getemoji.com/)
+
 1. Selectores 2
 
 ### 8. VSCode
@@ -73,30 +76,43 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
 1. Box Model
 1. Tipos de elementos en CSS
 1. Especificidad y Cascada
+
    - [Documentacion Mozilla](https://developer.mozilla.org/es/docs/Web/CSS/Specificity)
+
 1. Herencia
 
 ### 10. Bordes y Sombras
 
 1. Border
+
    - [Documentacion Mozilla](https://developer.mozilla.org/es/docs/Web/CSS/border-style)
+
 1. Border-radius
+
    - [Documentacion Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius)
    - [Calculador Border Radius](https://border-radius.com/)
+
 1. Box Shadow
+
    - [Documentacion Mozilla](https://developer.mozilla.org/es/docs/Web/CSS/box-shadow)
    - [Calculador Box Shadow](https://www.cssmatic.com/box-shadow)
+
 1. **Práctica** - Card Page
 
 ### 11. Colores y Fondos
 
 1. Colores en CSS
+
    - [Crear Paleta](https://coolors.co/generate)
+
 1. Background en CSS
+
    - [Documentacion Mozilla](https://developer.mozilla.org/es/docs/Web/CSS/background)
    - [Texturas](https://www.toptal.com/designers/subtlepatterns/)
+
 1. Background Position
 1. Gradientes
+
    - [W3 Schools Gradients](https://www.w3schools.com/colors/colors_gradient.asp)
    - [Web Gradients](https://webgradients.com/)
    - [UI Gradients](https://uigradients.com)
@@ -104,15 +120,19 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
 ### 12. Textos en CSS
 
 1. Textos en CSS
+
    - [Google Fonts](https://fonts.google.com/)
 
 ### 13. Unidades de Medida, Imagenes y Listas
 
 1. Unidades de Medida 1
+
    - [Documentacion Mozilla](https://developer.mozilla.org/es/docs/Web/CSS/length)
+
 1. Unidades de Medida 2
 1. **Práctica** - Show Page
 1. Imagenes y Listas
+
    - [Object Fit Mozilla](https://developer.mozilla.org/es/docs/Web/CSS/object-fit)
    - [List Style Mozilla](https://developer.mozilla.org/es/docs/Web/CSS/object-fit)
    - [Box Icons](https://boxicons.com/)
@@ -121,34 +141,49 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
 
 1. Posicionamiento en CSS
 1. **Práctica** - Landing Page
+
    - [Waves Generator](https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections)
+
 1. **Práctica** - Menú Fijo
 
 ### 15. Pseudoclases, Pseudoelementos y Variables en CSS
 
 1. Pseudoclases
+
    - [Pseudo clases Mozilla](https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-classes)
+
 1. Pseudoelementos
+
    - [Pseudo elementos Mozilla](https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-elements)
+
 1. Introducción a variables en CSS
+
    - [Variables Mozilla](https://developer.mozilla.org/es/docs/Web/CSS/Using_CSS_custom_properties)
+
 1. **Práctica** - Botones Redes Sociales
+
    - [FontAwesome](https://fontawesome.com/?from=io)
 
 ### 16. Responsive Design
 
 1. Media Queries
+
    - [Media Queries Mozilla](https://developer.mozilla.org/es/docs/Web/CSS/CSS_media_queries/Using_media_queries)
    - [Media Queries Standard](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+
 1. **Práctica** - Smooth Scroll
+
    - [Can I Use](https://caniuse.com/)
    - [Autoprefixer](https://autoprefixer.github.io/)
+
 1. **Práctica** - Formulario Adaptable
 
 ### 17. Flexbox
 
 1. Entendiendo Flexbox
+
    - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 1. Alineamiento en el eje principal
 1. Alineamiento en el eje secundario
 1. Propiedades Flex Items
@@ -156,6 +191,11 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
 ### 18. Páginas Web con Flexbox
 
 1. Recursos a Utilizar
+
+   - [Google Fonts](https://fonts.google.com/)
+   - [Google Fonts](https://fonts.google.com/)
+   - [FontAwesome](https://fontawesome.com/?from=io)
+
 1. Creando el Header de la Pagina Web
 1. Terminando el Main y el Portafolio
 1. Adaptando a Dispositivos Móviles
