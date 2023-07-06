@@ -221,4 +221,5 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
 1. **Práctica** - Landing Page
 
    - [Blobmaker](https://www.blobmaker.app/)
+   - [Undraw](https://undraw.co/illustrations)
    - [Figma](https://www.figma.com/)
