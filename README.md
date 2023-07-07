@@ -45,6 +45,8 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
 1.  Formularios
 1.  Secciones
 
+    - [Undraw](https://undraw.co/illustrations)
+
 ### 6. Iframe, Audio, video, tablas y Metadatos
 
 1. Iframe
@@ -52,6 +54,7 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
 1. Audio y Video
 1. Metadatos
 
+   - [Documentacion Mozilla](https://cssreference.io/property/transform-origin/)
    - [Favicon](https://favicon.io/favicon-converter/)
 
 ### 7. Primeros pasos CSS3
@@ -75,6 +78,10 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
 
 1. Box Model
 1. Tipos de elementos en CSS
+
+   - [En Linea](https://developer.mozilla.org/es/docs/orphaned/Web/HTML/Inline_elements)
+   - [Bloque](https://developer.mozilla.org/es/docs/Glossary/Block-level_content)
+
 1. Especificidad y Cascada
 
    - [Documentacion Mozilla](https://developer.mozilla.org/es/docs/Web/CSS/Specificity)
@@ -104,11 +111,15 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
 1. Colores en CSS
 
    - [Crear Paleta](https://coolors.co/generate)
+   - [Flat UI Colors](https://flatuicolors.com/)
+   - [HTML Color Codes](https://htmlcolorcodes.com/es/selector-de-color/)
 
 1. Background en CSS
 
    - [Documentacion Mozilla](https://developer.mozilla.org/es/docs/Web/CSS/background)
    - [Texturas](https://www.toptal.com/designers/subtlepatterns/)
+   - [Pexels](https://www.pexels.com/es-es/)
+   - [Unsplash](https://unsplash.com/es)
 
 1. Background Position
 1. Gradientes
@@ -143,6 +154,8 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
 1. **Práctica** - Landing Page
 
    - [Waves Generator](https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections)
+   - [Undraw](https://undraw.co/illustrations)
+   - [Web Gradients](https://webgradients.com/)
 
 1. **Práctica** - Menú Fijo
 
@@ -175,6 +188,8 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
 
    - [Can I Use](https://caniuse.com/)
    - [Autoprefixer](https://autoprefixer.github.io/)
+   - [Web Gradients](https://webgradients.com/)
+   - [Google Fonts](https://fonts.google.com/)
 
 1. **Práctica** - Formulario Adaptable
 
@@ -223,3 +238,12 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
    - [Blobmaker](https://www.blobmaker.app/)
    - [Undraw](https://undraw.co/illustrations)
    - [Figma](https://www.figma.com/)
+
+### 21. Transformaciones en CSS
+
+1. Ejes en CSS
+1. Transformaciones #1
+1. Transformaciones #2
+1. Transform position
+
+   - [CSS Reference](https://cssreference.io/property/transform-origin/)
