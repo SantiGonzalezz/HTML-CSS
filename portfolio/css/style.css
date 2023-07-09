@@ -16,11 +16,13 @@ body {
     width: 80%;
 }
 
-/* ------------------ */
+/* ---------------------------------------------------------------------- */
 /* Header */
-/* ------------------ */
+/* ---------------------------------------------------------------------- */
 
+/* ----------------------------------------- */
 /* Nav */
+/* ----------------------------------------- */
 
 .nav {
     width: 100%;
@@ -37,12 +39,13 @@ body {
     opacity: 0.9;
 }
 
-.nombre {
+.nav-name {
     font-size: 28px;
     font-weight: 700;
+    text-align: center;
 }
 
-.languages-menu {
+.nav-menu-languages {
     width: 150px;
     padding: 5px 10px;
     border: 2px solid #fff;
@@ -50,48 +53,71 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    text-decoration: none;
+    color: #fff;
 }
 
-.lenguaje {
+.nav-menu-languages-language {
     width: 33%;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
 
-.bandera-pais {
+.nav-menu-languages-language-flag {
     width: 35%;
     height: inherit;
     object-fit: contain;
 }
 
-.idioma-texto {
+.nav-menu-languages-language-flag {
     width: 40%;
     font-size: 13px;
     text-align: center;
 }
 
-.contenedor-icon-switch {
-    /* width: 33%; */
-}
-
-.icon-switch {
+.nav-menu-languages-switch {
     /* width: 48px; */
-    padding-top: 3px;
+    padding-top: 1px;
 }
 
-.lista-secciones li {
+.nav-section-list li {
     display: inline-block;
     list-style: none;
     margin: 0 8px 0 0px;
 }
 
-.lista-secciones a {
+.nav-section-list-link {
     text-decoration: none;
     color: inherit;
     font-size: 17px;
     font-weight: 700;
 }
+
+/* ----------------------------------------- */
+/* Hero */
+/* ----------------------------------------- */
+
+.hero {
+    margin: 120px auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.hero-image {
+    display: block;
+    width: 300px;
+    height: 300px;
+    /* border: 1px solid #000; */
+    border-radius: 50%;
+    box-shadow: 0px 0px 3px 2px;
+}
+
+/* ---------------------------------------------------------------------- */
+/* Sections */
+/* ---------------------------------------------------------------------- */
 
 .section {
     margin: 100px auto;
@@ -99,13 +125,19 @@ body {
 
 }
 
+.section.title {
+    margin: 100px;
+}
 
+/* ---------------------------------------------------------------------- */
+/* Responsive Design */
+/* ---------------------------------------------------------------------- */
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 950px) {
     
     .languages-menu {
         width: 80px;
-        padding: 0 0;
+        padding: 5px 0;
     }
     
     .lenguaje {
