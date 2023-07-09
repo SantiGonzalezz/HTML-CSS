@@ -111,6 +111,9 @@ body {
     text-decoration: none;    
     color: inherit;
     cursor: pointer;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
 }
 
 .up-arrow {
