@@ -23,23 +23,23 @@ body {
 /* Nav */
 
 .nav {
+    width: 100%;
+    height: 90px;
     background-color: #84c0c6;
     color: #fff;
     padding: 10px;
     display: flex;
     justify-content: space-around;
     align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    opacity: 0.9;
 }
 
-.lista-secciones li {
-    display: inline-block;
-    list-style: none;
-    margin: 0 8px 0 8px;
-}
-
-.lista-secciones a {
-    text-decoration: none;
-    color: inherit;
+.nombre {
+    font-size: 28px;
+    font-weight: 700;
 }
 
 .languages-menu {
@@ -67,7 +67,8 @@ body {
 
 .idioma-texto {
     width: 40%;
-    font-size: 15px;
+    font-size: 13px;
+    text-align: center;
 }
 
 .contenedor-icon-switch {
@@ -77,4 +78,53 @@ body {
 .icon-switch {
     /* width: 48px; */
     padding-top: 3px;
+}
+
+.lista-secciones li {
+    display: inline-block;
+    list-style: none;
+    margin: 0 8px 0 0px;
+}
+
+.lista-secciones a {
+    text-decoration: none;
+    color: inherit;
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.section {
+    margin: 100px auto;
+    width: 90%;
+
+}
+
+
+
+@media screen and (max-width: 1000px) {
+    
+    .languages-menu {
+        width: 80px;
+        padding: 0 0;
+    }
+    
+    .lenguaje {
+        justify-content: center;
+    }
+    
+    .bandera-pais {
+        /* display: none; */
+        width: 60%;
+    }
+
+    .idioma-texto {
+        display: none;
+        width: 90%;
+        /* font-size: 10px; */
+    }
+
+    .icon-switch {
+        width: 20px;
+    }
+
 }
