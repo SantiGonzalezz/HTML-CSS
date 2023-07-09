@@ -48,23 +48,33 @@ body {
     border: 2px solid #fff;
     border-radius: 6px;
     display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
-
-.lenguaje {
-    display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
+.lenguaje {
+    width: 33%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
 .bandera-pais {
-    width: 50%;
+    width: 35%;
     height: inherit;
-    margin: 5px;
+    object-fit: contain;
+}
+
+.idioma-texto {
+    width: 40%;
+    font-size: 15px;
+}
+
+.contenedor-icon-switch {
+    /* width: 33%; */
 }
 
 .icon-switch {
-    padding-top: 5px;
-    color: #d444c17a;
+    /* width: 48px; */
+    padding-top: 3px;
 }
