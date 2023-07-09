@@ -70,7 +70,7 @@ body {
     object-fit: contain;
 }
 
-.nav-menu-languages-language-flag {
+.nav-menu-languages-language-text {
     width: 40%;
     font-size: 13px;
     text-align: center;
@@ -79,6 +79,7 @@ body {
 .nav-menu-languages-switch {
     /* width: 48px; */
     padding-top: 1px;
+    filter: invert();
 }
 
 .nav-section-list li {
@@ -95,11 +96,42 @@ body {
 }
 
 /* ----------------------------------------- */
+/* Up */
+/* ----------------------------------------- */
+
+.up {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    /* border: 10px solid #000;
+    border-radius: 50%; */
+}
+
+.up-link {
+    text-decoration: none;    
+    color: inherit;
+    cursor: pointer;
+}
+
+.up-arrow {
+    width: 60px;
+    height: 60px;
+    filter: invert(79%) sepia(18%) saturate(575%) hue-rotate(137deg) brightness(90%) contrast(87%);
+    border: 6px solid;
+    border-radius: 50%;
+}
+
+.up-link:active .up-arrow {
+    filter: invert(32%) sepia(54%) saturate(909%) hue-rotate(152deg) brightness(99%) contrast(90%);
+}
+
+/* ----------------------------------------- */
 /* Hero */
 /* ----------------------------------------- */
 
 .hero {
-    margin: 120px auto;
+    margin: 0px auto;
+    padding: 120px 0 0 0;
     display: flex;
     flex-flow: row wrap;
     justify-content: space-evenly;
@@ -120,13 +152,14 @@ body {
 /* ---------------------------------------------------------------------- */
 
 .section {
-    margin: 100px auto;
+    /* margin: 100px auto; */
+    margin: 0px auto;
     width: 90%;
 
 }
 
-.section.title {
-    margin: 100px;
+.section-title {
+    padding: 100px 0 0 0;
 }
 
 /* ---------------------------------------------------------------------- */

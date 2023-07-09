@@ -147,6 +147,7 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
    - [Object Fit - MDN](https://developer.mozilla.org/es/docs/Web/CSS/object-fit)
    - [List Style - MDN](https://developer.mozilla.org/es/docs/Web/CSS/object-fit)
    - [Box Icons](https://boxicons.com/)
+   - [CSS SVG Filter](https://codepen.io/sosuke/pen/Pjoqqp)
 
 ### 14. Position en CSS
 
