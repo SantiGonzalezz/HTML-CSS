@@ -277,3 +277,31 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
 
    - [Google Fonts](https://fonts.google.com/)
    - [Unsplash](https://unsplash.com/es)
+
+### 24. Animaciones
+
+1. Animaciones 1
+
+   - [Animation - CSS Reference](https://cssreference.io/property/animation/)
+
+1. Animaciones 2
+
+### 25. Prácticas Animaciones
+
+1. **Práctica** - Landing Page
+
+   - [Web Gradients](https://webgradients.com/)
+   - [Get Waves](https://getwaves.io/)
+   - [Waves Generator](https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections)
+
+1. **Práctica** - Animaciones SVG
+
+   - [Transform-Box MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-box)
+   - [Figma](https://www.figma.com/)
+   - [Undraw](https://undraw.co/illustrations)
+
+### 26. Grid
+
+1. Introduccion Grid
+
+   - []()
