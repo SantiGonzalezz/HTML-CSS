@@ -304,4 +304,26 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
 
 1. Introduccion Grid
 
+   - [CSS Tricks guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+1. Conociendo Grid
+
+1. Entendiendo el flujo Grid
+
+1. Template Areas Grid
+
+1. Auto-Fill y Auto-Fit
+
+### 27. Prácticas Grid
+
+1. Formulario con CSS Grid 1
+
+   - []()
+
+1. Formulario con CSS Grid 2
+
+   - []()
+
+1. Cards sin media queries
+
    - []()
