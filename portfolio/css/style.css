@@ -95,6 +95,32 @@ body {
     font-weight: 700;
 }
 
+.nav-section-list-link:hover {
+    text-shadow: #696969 2px 2px 2px;
+}
+
+/* ----------------------------------------- */
+/* Hero */
+/* ----------------------------------------- */
+
+.hero {
+    margin: 0px auto;
+    padding: 120px 0 0 0;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.hero-image {
+    display: block;
+    width: 300px;
+    height: 300px;
+    /* border: 1px solid #000; */
+    border-radius: 50%;
+    box-shadow: 0px 0px 3px 2px;
+}
+
 /* ----------------------------------------- */
 /* Up */
 /* ----------------------------------------- */
@@ -124,30 +150,8 @@ body {
     border-radius: 50%;
 }
 
-.up-link:active .up-arrow {
-    filter: invert(32%) sepia(54%) saturate(909%) hue-rotate(152deg) brightness(99%) contrast(90%);
-}
-
-/* ----------------------------------------- */
-/* Hero */
-/* ----------------------------------------- */
-
-.hero {
-    margin: 0px auto;
-    padding: 120px 0 0 0;
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: space-evenly;
-    align-items: center;
-}
-
-.hero-image {
-    display: block;
-    width: 300px;
-    height: 300px;
-    /* border: 1px solid #000; */
-    border-radius: 50%;
-    box-shadow: 0px 0px 3px 2px;
+.up-link:hover .up-arrow {
+    filter: invert(41%) sepia(3%) saturate(348%) hue-rotate(295deg) brightness(96%) contrast(87%);
 }
 
 /* ---------------------------------------------------------------------- */
@@ -171,27 +175,27 @@ body {
 
 @media screen and (max-width: 950px) {
     
-    .languages-menu {
+    .nav-menu-languages {
         width: 80px;
         padding: 5px 0;
     }
     
-    .lenguaje {
+    .nav-menu-languages-language {
         justify-content: center;
     }
     
-    .bandera-pais {
+    .nav-menu-languages-language-flag {
         /* display: none; */
         width: 60%;
     }
 
-    .idioma-texto {
+    .nav-menu-languages-language-text {
         display: none;
         width: 90%;
         /* font-size: 10px; */
     }
 
-    .icon-switch {
+    .nav-menu-languages-switch {
         width: 20px;
     }
 
