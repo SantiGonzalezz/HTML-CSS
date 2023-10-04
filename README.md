@@ -316,14 +316,43 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
 
 ### 27. Prácticas Grid
 
-1. Formulario con CSS Grid 1
+1. **Práctica** - Formulario con CSS Grid 1
 
+1. **Práctica** - Formulario con CSS Grid 2
+
+1. **Práctica** - Cards sin media queries
+
+### 28. Introducción a Figma
+
+### 29. Practica Landing page con Figma
+
+1. **Práctica** - Creando prototipo en Figma
+
+   - [Many Pixels](https://www.manypixels.co/gallery)
+
+1. **Práctica** - Creando la pagina con HTML y CSS 1
+1. **Práctica** - Creando la pagina con HTML y CSS 2
+
+### 30. Tips Diseño Web
+
+1. Optimizar Imagenes
+1. Normalizar Estilos
+1. Mockups en Figma 1
+1. Mockups en Figma 2
+
+### 31. Metodología BEM
+
+### 32. Practica - Pagina con Grid y Flexbox
+
+1. **Práctica** - Portfolio
+
+   - [Figma](https://www.figma.com/)
+   - [SVG Porn](https://svgporn.com/)
+   - [Unsplash](https://unsplash.com/es)
+   - [Undraw](https://undraw.co/illustrations)
+   - [Google Fonts](https://fonts.google.com/)
+   - [FontAwesome](https://fontawesome.com/?from=io)
+   - []()
    - []()
 
-1. Formulario con CSS Grid 2
-
-   - []()
-
-1. Cards sin media queries
-
-   - []()
+### 33. Subiendo una página a internet
