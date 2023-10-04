@@ -102,8 +102,7 @@ body {
     padding: var(--boton-padding);
     color: var(--color-primary);
     text-decoration: none;
-    border-radius: 40px;
-    
+    border-radius: 40px;    
 }
 
 .hero__wave {
@@ -552,11 +551,6 @@ body {
 
     .footer {
         height: auto;
-    }
-    .footer__grid {
-        /* grid-template-columns: 1fr; */
-        /* padding-bottom: 30px;
-        margin-bottom: 30px; */
     }
 
     .nav--footer {
