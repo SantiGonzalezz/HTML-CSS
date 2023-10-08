@@ -14,13 +14,17 @@
     --color-secondary: #3C4F76;
     --color-third: #C2E9FB;
     --height-nav: 10%;
-    --height-wave: 15%;
-    --button-padding: 10px;
+    --height-wave: 10%;
+    --button-padding: 10px 20px;
 }
 
 /* ------------------------- */
 /* General */
 /* ------------------------- */
+
+html {
+    scroll-behavior: smooth;
+}
 
 body {
     font-family: 'Raleway', sans-serif;    
@@ -31,6 +35,13 @@ body {
     margin: 0 auto;
     height: auto;
     overflow: hidden;
+    padding: 30px 0;
+}
+
+.subtitle {
+    color: var(--color-primary);
+    font-size: 2.5rem;
+    margin: 10px;
 }
 
 /* ------------------------- */
@@ -47,7 +58,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 40px;
+    padding: 0 40px;
 }
 
 .nav__container--display {
@@ -85,10 +96,12 @@ body {
 /* ------------------------- */
 
 .hero {
-    background-image: var(--background);
-    background-attachment: fixed;
     height: 100svh;
-    position: relative;
+    background-image: var(--background);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;    
     /* padding: var(--height-nav); */
 }
 
@@ -154,6 +167,56 @@ body {
     width: 100%;
     height: var(--height-wave);
 }
+
+/* ------------------------- */
+/* About Me */
+/* ------------------------- */
+
+.about {
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.about__img {
+    display: block;
+    width: 30%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 50%;
+    object-position: center;
+}
+
+.about__subtitle {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.about__paragraph {
+    text-align: justify;
+    width: 60%;
+    margin-bottom: 30px;
+    font-size: 1.1rem;
+}
+
+.about__button {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    background-color: var(--color-primary);    
+    border-radius: 10px;
+    padding: var(--button-padding);
+    font-size: 20px;
+}
+
+/* ------------------------- */
+/*  */
+/* ------------------------- */
+
+/* ------------------------- */
+/*  */
+/* ------------------------- */
 
 /* ------------------------- */
 /*  */
