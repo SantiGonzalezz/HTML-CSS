@@ -87,7 +87,7 @@ body {
 .hero {
     background-image: var(--background);
     background-attachment: fixed;
-    height: 100vh;
+    height: 100svh;
     position: relative;
     /* padding: var(--height-nav); */
 }

@@ -336,6 +336,9 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
 ### 30. Tips Diseño Web
 
 1. Optimizar Imagenes
+
+   - [Tiny JPG ](https://tinyjpg.com/)
+
 1. Normalizar Estilos
 1. Mockups en Figma 1
 1. Mockups en Figma 2
@@ -352,7 +355,5 @@ Este repositorio corresponde al desarrollo del curso **HTML5 y CSS3 - Diseño We
    - [Undraw](https://undraw.co/illustrations)
    - [Google Fonts](https://fonts.google.com/)
    - [FontAwesome](https://fontawesome.com/?from=io)
-   - []()
-   - []()
 
 ### 33. Subiendo una página a internet
